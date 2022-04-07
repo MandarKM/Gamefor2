@@ -1,5 +1,7 @@
-# Gamefor2
+Gamefor2
 Games such as hangman, XO
+
+
 #include <iostream>
 #include <cstdlib>
 #include<ctime>
